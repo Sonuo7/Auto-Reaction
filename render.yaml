@@ -1,0 +1,31 @@
+services:
+  - type: web
+    name: autoreactionbot
+    runtime: node
+    plan: starter
+    repo: https://github.com/TechifyBots/Auto-Reaction-Bot
+    buildCommand: npm install
+    startCommand: node api/index.js
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: BOT_USERNAME
+        sync: false
+      - key: EMOJI_LIST
+        sync: false
+      - key: RANDOM_LEVEL
+        value: "0"
+      - key: RESTRICTED_CHATS
+        sync: false
+      - key: OWNER_ID
+        sync: false
+      - key: WEBHOOK_SECRET
+        sync: false
+      - key: BOT_PHOTO
+        sync: false
+      - key: PORT
+        value: "3000"
+      - key: NODE_ENV
+        value: production
+    healthCheckPath: /health
+    autoDeploy: false

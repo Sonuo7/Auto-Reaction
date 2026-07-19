@@ -1,0 +1,11 @@
+name = "autoreactionbot"
+main = "api/worker.js"
+compatibility_date = "2026-02-22"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+BOT_TOKEN = "12345678:PAST-YOUR-BOT-TOKEN-HERE"
+BOT_USERNAME = "AlyaReactionBot"
+EMOJI_LIST = "👍❤🔥🥰👏😁🎉🤩🙏👌🕊😍🐳❤‍🔥💯⚡🏆"
+RANDOM_LEVEL = "0"
+RESTRICTED_CHATS = "1234,5678"
