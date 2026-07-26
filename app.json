@@ -1,7 +1,7 @@
 {
     "name": "autoreactionbot",
     "description": "A Telegram Bot that automatically reacts to posts in Telegram Channels, groups, and private messages, developed as a serverless application.",
-    "repository": "https://github.com/TechifyBots/Auto-Reaction-Bot",
+    "telegram": "https://telegram.me/ivys_cafe",
     "env": {
       "BOT_TOKEN": {
         "description": "The Telegram bot token (Generate from BotFather)",
