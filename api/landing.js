@@ -21,22 +21,22 @@ export const htmlContent = `
   <!-- ═══════════════════════════════════════════════════════════ -->
   <!-- Primary Meta — Search engines + browser tabs               -->
   <!-- ═══════════════════════════════════════════════════════════ -->
-  <meta name="description" content="Alya Reaction Bot — fast Telegram auto-reaction bot. Deploy on Cloudflare, Vercel, or Docker. Auto-react to messages with curated emojis.">
+  <meta name="description" content="IvY Reaction Bot — fast Telegram auto-reaction bot. Deploy on Cloudflare, Vercel, or Docker. Auto-react to messages with curated emojis.">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://alyareactionbot.vercel.app">
+  <link rel="canonical" href="https://alsamovies.vercel.app">
 
   <!-- ═══════════════════════════════════════════════════════════ -->
   <!-- Open Graph — Facebook, Discord, Telegram preview, LinkedIn -->
   <!-- ═══════════════════════════════════════════════════════════ -->
-  <meta property="og:title" content="Alya · Reaction Bot" />
+  <meta property="og:title" content="IvY · Reaction Bot" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://alyareactionbot.vercel.app" />
+  <meta property="og:url" content="https://alsamovies.vercel.app" />
   <meta property="og:image" content="https://raw.githubusercontent.com/TechifyBots/Auto-Reaction-Bot/main/assets/banner.png" />
   <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/TechifyBots/Auto-Reaction-Bot/main/assets/banner.png" />
   <meta property="og:image:type" content="image/png" />
   <meta property="og:image:width" content="1280" />
   <meta property="og:image:height" content="640" />
-  <meta property="og:image:alt" content="Alya Reaction Bot — Automated Telegram Reactions" />
+  <meta property="og:image:alt" content="IvY Reaction Bot — Automated Telegram Reactions" />
   <meta property="og:description" content="Fast Telegram auto-reaction bot. Deploy on Cloudflare, Vercel, or Docker. Auto-react to messages with curated emojis." />
   <meta property="og:site_name" content="Auto Reaction Bot" />
   <meta property="og:locale" content="en_US" />
@@ -45,13 +45,13 @@ export const htmlContent = `
   <!-- Twitter Card — X/Twitter preview                           -->
   <!-- ═══════════════════════════════════════════════════════════ -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@TechifyBots" />
-  <meta name="twitter:creator" content="@TechifyBots" />
+  <meta name="twitter:site" content="@ivys_cafe" />
+  <meta name="twitter:creator" content="@ivys_cafe" />
   <meta name="twitter:title" content="Auto · Reaction Bot" />
   <meta name="twitter:description" content="Fast Telegram auto-reaction bot. Deploy anywhere, react to everything." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/TechifyBots/Auto-Reaction-Bot/main/assets/banner.png" />
-  <meta name="twitter:image:alt" content="Alya Reaction Bot — Automated Telegram Reactions" />
-  <meta name="twitter:domain" content="alyareactionbot.vercel.app" />
+  <meta name="twitter:image:alt" content="IvY Reaction Bot — Automated Telegram Reactions" />
+  <meta name="twitter:domain" content="alsamovies.vercel.app" />
 
   <!-- ═══════════════════════════════════════════════════════════ -->
   <!-- JSON-LD Structured Data — Google rich results              -->
@@ -62,7 +62,7 @@ export const htmlContent = `
     "@type": "SoftwareApplication",
     "name": "Auto Reaction Bot",
     "description": "Fast Telegram auto-reaction bot. Deploy on Cloudflare, Vercel, or Docker. Per-chat customization and privacy-first design.",
-    "url": "https://alyareactionbot.vercel.app",
+    "url": "https://alsamovies.vercel.app",
     "applicationCategory": "CommunicationApplication",
     "operatingSystem": "Cloudflare Workers, Vercel, Docker",
     "offers": {
@@ -72,8 +72,8 @@ export const htmlContent = `
     },
     "author": {
       "@type": "Person",
-      "name": "Techify Bots",
-      "url": "https://github.com/TechifyBots"
+      "name": "IvY",
+      "url": "https://telegram.me/ivys_cafe"
     },
     "image": "https://raw.githubusercontent.com/TechifyBots/Auto-Reaction-Bot/main/assets/banner.png",
     "softwareVersion": "${VERSION}",
@@ -651,9 +651,9 @@ export const htmlContent = `
       <div class="island-links">
         <a href="#features">Features</a>
         <a href="#deploy">Deploy</a>
-        <a href="https://github.com/TechifyBots/Auto-Reaction-Bot" target="_blank">GitHub</a>
+        <a href="https://telegram.me/ivys_cafe" target="_blank">Telegram</a>
       </div>
-      <a href="https://telegram.me/AlyaReactionBot" target="_blank" class="island-cta"><i data-lucide="zap"></i> Launch</a>
+      <a href="https://telegram.me/ivys_cafe" target="_blank" class="island-cta"><i data-lucide="zap"></i> Launch</a>
     </div>
   </div>
 
