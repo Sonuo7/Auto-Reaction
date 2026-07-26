@@ -81,7 +81,7 @@ New to this project?
 
 Watch this short video to understand **what the bot is**, **why it's useful**, **how it works**, explore its **key features**, and learn the **required configuration** before deployment.
 
-📺 **Watch on YouTube: *[Project Overview](VIDEO_LINK)***
+📺 **Watch on YouTube: *[Project Overview](https://youtu.be/U1tWvTR_OlM)***
 
 ---
 
