@@ -5,7 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 
 [vars]
 BOT_TOKEN = "12345678:PAST-YOUR-BOT-TOKEN-HERE"
-BOT_USERNAME = "AlyaReactionBot"
+BOT_USERNAME = "Nazriyarection_bot"
 EMOJI_LIST = "👍❤🔥🥰👏😁🎉🤩🙏👌🕊😍🐳❤‍🔥💯⚡🏆"
 RANDOM_LEVEL = "0"
 RESTRICTED_CHATS = "1234,5678"
